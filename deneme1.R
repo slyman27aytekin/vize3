@@ -33,3 +33,5 @@ spotify_token <- function() {
   
   return(result)
 }
+#test1.1# spotify_token fonksiyonunu çağırarak değişkeni oluştur
+spotify_token <- spotify_token()
